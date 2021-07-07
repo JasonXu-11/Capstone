@@ -1,1 +1,3 @@
-# Capstone
+# Capstone -- Clustering
+
+### Problem Statement
